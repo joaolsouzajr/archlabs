@@ -1,0 +1,1 @@
+INSERT INTO providers (id, title) VALUES ('aa8b7e5a-6b36-4391-9b9d-46be21273558', 'Joy Energy');
